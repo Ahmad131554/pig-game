@@ -24,7 +24,7 @@ The **Pig Game** is a dice-rolling game for two players. Players take turns roll
 
 ## Project Preview
 
-You can view a live demo of the project here: [Pig Game Demo](https://your-demo-link.com)
+You can view a live demo of the project here: [Pig Game Demo](https://rollthepig.netlify.app/)
 
 ---
 
